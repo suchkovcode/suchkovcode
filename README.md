@@ -56,8 +56,12 @@
 
 ---
 ### ⚙️ GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suchkovcode&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suchkovcode)
+<table>
+  <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchkovcode"/></td>
+     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=suchkovcode"/></td>
+  </tr>
+</table>
 
 
 [linkedin]: https://www.linkedin.com/in/nikita-suchkov/
