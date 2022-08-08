@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### I'm a Developer, volunteer and sportsmen <img align="right" src="https://www.codewars.com/users/suchkovcode/badges/micro" alt="codewars" />
+### I'm a Developer, volunteer and sportsmen <img align="right" src="https://gpvc.arturio.dev/suchkovcode" alt="codewars" />
 
 
 <br>
@@ -55,6 +55,7 @@
 
 
 ---
+### ⚙️ GitHub Analytics
 ![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchkovcode&theme=nord_bright)
 ![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suchkovcode&theme=nord_bright)
 ![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchkovcode&theme=nord_bright)
@@ -65,5 +66,5 @@
 [linkedin]: https://www.linkedin.com/in/nikita-suchkov/
 [gmail]: mailto:suchkov@gmail.com
 [telegram]: https://www.linkedin.com/in/nikita-suchkov/
-[upwork]: https://www.upwork.com/freelancers/~01bf4c3d1146c7bae9
-[stack]: https://ru.stackoverflow.com/users/503186/nikita-suchkov
+[upwork]: https://www.linkedin.com/in/nikita-suchkov/
+[stack]: https://www.linkedin.com/in/nikita-suchkov/
