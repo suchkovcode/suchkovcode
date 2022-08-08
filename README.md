@@ -55,6 +55,12 @@
 
 
 ---
+![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchkovcode&theme=nord_bright)
+![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suchkovcode&theme=nord_bright)
+![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchkovcode&theme=nord_bright)
+![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchkovcode&theme=nord_bright)
+![Карточка 1](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchkovcode&theme=nord_bright)
+
 
 [linkedin]: https://www.linkedin.com/in/nikita-suchkov/
 [gmail]: mailto:suchkov@gmail.com
