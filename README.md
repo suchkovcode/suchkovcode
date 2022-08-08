@@ -9,6 +9,8 @@
 - 📌 I'm From Ukraine (Kiev)
 - 💻 1+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
+- 🐾 Love animals
+- 🪐 I dream of flying into space
 
 
 ### 🤝 Connect with me:
