@@ -56,12 +56,8 @@
 
 ---
 ### ⚙️ GitHub Analytics
-<table>
-  <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchkovcode"/></td>
-     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=suchkovcode"/></td>
-  </tr>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchkovcode)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suchkovcode)  
 
 
 [linkedin]: https://www.linkedin.com/in/nikita-suchkov/
