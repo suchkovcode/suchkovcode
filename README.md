@@ -4,7 +4,6 @@
 ### I'm a Developer, volunteer and sportsmen <img align="right" src="https://gpvc.arturio.dev/suchkovcode" alt="Visitors" />
 
 - 📌 I'm From Ukraine (Kiev)
-- 💻 1+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 🐾 Love animals
 - 🪐 I dream of flying into space
