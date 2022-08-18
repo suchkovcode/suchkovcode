@@ -32,6 +32,7 @@
 ### 📚 Libraries and framework:
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
 <img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />&nbsp;
