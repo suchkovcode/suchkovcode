@@ -58,6 +58,6 @@
 
 [linkedin]: https://www.linkedin.com/in/nikita-suchkov/
 [gmail]: mailto:suchkov@gmail.com
-[telegram]: https://www.linkedin.com/in/nikita-suchkov/
+[telegram]: https://t.me/nikita_s33
 [upwork]: https://www.linkedin.com/in/nikita-suchkov/
 [stack]: https://www.linkedin.com/in/nikita-suchkov/
