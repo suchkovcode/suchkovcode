@@ -60,4 +60,4 @@
 [gmail]: mailto:suchkov@gmail.com
 [telegram]: https://t.me/nikita_s33
 [upwork]: https://www.linkedin.com/in/nikita-suchkov/
-[stack]: https://www.linkedin.com/in/nikita-suchkov/
+[stack]: https://ru.stackoverflow.com/users/503186/nikita-suchkov
