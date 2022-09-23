@@ -25,6 +25,7 @@
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
+<img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />&nbsp;
 <img alt="Less" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)&nbsp;
