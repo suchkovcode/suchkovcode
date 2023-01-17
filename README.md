@@ -61,7 +61,7 @@
 <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />&nbsp;
 
 ---
-### ⚙️ GitHub Analytics
+### :chart_with_upwards_trend GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchkovcode)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suchkovcode)  
 
