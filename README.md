@@ -38,7 +38,7 @@
 <img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />&nbsp;
 
 ### 🛠 Platforms and tools:
-
+<img alt='pinia' src='https://img.shields.io/badge/Pinia-100000?style=for-the-badge&logo=vuetify&logoColor=000&labelColor=FFD453&color=FFD453'/>&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
