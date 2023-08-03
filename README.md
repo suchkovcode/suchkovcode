@@ -71,5 +71,5 @@
 [linkedin]: https://www.linkedin.com/in/nikita-suchkov/
 [gmail]: mailto:suchkov@gmail.com
 [telegram]: https://t.me/nikita_s33
-[upwork]: https://www.linkedin.com/in/nikita-suchkov/
+[upwork]: https://www.upwork.com/freelancers/~01bf4c3d1146c7bae9
 [stack]: https://ru.stackoverflow.com/users/503186/nikita-suchkov
