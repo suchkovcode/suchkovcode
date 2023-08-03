@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/suchkovcode" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### I'm a Developer, volunteer and sportsmen <img align="right" src="https://gpvc.arturio.dev/suchkovcode" alt="Visitors" />
+### I'm a Developer, volunteer and sportsmen 
 
 - 📌 I'm From Ukraine (Kiev)
 - 👨‍💻 Front-end Enthusiast & Volunteer
