@@ -61,6 +61,7 @@
 ### :pencil: CMS
 <img alt="WorsPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;
 <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />&nbsp;
+<img alt="Directus" src="https://img.shields.io/badge/Directus-263238?logo=directus&logoColor=fff&style=for-the-badge" />&nbsp;
 
 ### :gear: Bundlers:
 <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />&nbsp;
