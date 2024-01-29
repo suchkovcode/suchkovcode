@@ -1,5 +1,3 @@
-![Header](https://camo.githubusercontent.com/04e1fb71da995e01cd6b0aef1b07b2d9745edd584d7b47236f083c3cd1d1bfe5/68747470733a2f2f7777772e69616b6164656d692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7068702d7765622d64657369676e2e676966)
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/suchkovcode" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -36,6 +34,8 @@
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />&nbsp;
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;
+
 
 ### 🛠 Platforms and tools:
 <img alt='postman' src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white'/>&nbsp;
