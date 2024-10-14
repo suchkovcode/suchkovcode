@@ -36,7 +36,7 @@
 <img alt="astro" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />&nbsp;
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
-<img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />&nbsp;
+<img alt="Gsap" src="https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white" />&nbsp;
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;
 
 
