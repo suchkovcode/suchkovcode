@@ -14,7 +14,6 @@
 ### 🤝 Connect with me:
 
 [<img alt="Nikita | stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stack]
-[<img alt="Nikita | stackoverflow" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />][upwork]
 [<img alt="Nikita | stackoverflow" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 [<img alt="Nikita | stackoverflow" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
