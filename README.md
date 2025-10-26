@@ -5,7 +5,7 @@
 
 ### I'm a Developer, volunteer and sportsmen 
 
-- 📌 I'm From Ukraine (Kiev)
+- 📌 I'm From Cyprus
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 🐾 Love animals
 - 🪐 I dream of flying into space
